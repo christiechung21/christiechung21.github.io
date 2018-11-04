@@ -8,3 +8,11 @@
 body{
 	font-family: 'PT Serif', serif;
 }
+
+.custom-secondary-color {
+	color: grey;
+}
+
+.body-background-color {
+	background-color:#E7F0F9;
+}
