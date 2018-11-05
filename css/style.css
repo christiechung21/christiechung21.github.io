@@ -6,7 +6,8 @@
 	color: black;
 }
 body{
-	font-family: 'PT Serif', serif;
+	font-family: 'Open Sans', sans-serif;
+
 }
 
 .custom-secondary-color {
@@ -14,5 +15,8 @@ body{
 }
 
 .body-background-color {
-	background-color:#E7F0F9;
+	background-color: #E7F0F9;
+}
+.background-color-yellow{
+	background-color: #FEFAE8; 
 }
